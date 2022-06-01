@@ -1,0 +1,4 @@
+POM Model
+1-> WebDriver driver; global
+2-> element find ---> findBy
+3 -> Method element
